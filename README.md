@@ -4,16 +4,16 @@ The objective of this project is to build simple Task Manager web application to
 
 📖Three layer spring MVC Architecture is used in this project.
 
-Front-end ➡️ JavaServer Pages (JSP)
-Back-end ➡️ Spring Boot
-Database ➡️ MySQL
+Front-end ➡️ JavaServer Pages (JSP)<br>
+Back-end ➡️ Spring Boot<br>
+Database ➡️ MySQL<br>
 
 Tools and Technologies used:
 
-📂 Spring Tool Suite (Eclipse)
-📂 JavaSE-17 (JRE System Library)
-📂 Spring Boot
-📂 Spring MVC
-📂 Spring Data JPA (Hibernate)
-📂 MySQL Database Mangement System
-📂 JSP
+📂 Spring Tool Suite (Eclipse)<br>
+📂 JavaSE-17 (JRE System Library)<br>
+📂 Spring Boot<br>
+📂 Spring MVC<br>
+📂 Spring Data JPA (Hibernate)<br>
+📂 MySQL Database Mangement System<br>
+📂 JSP<br>
