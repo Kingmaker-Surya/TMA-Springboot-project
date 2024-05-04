@@ -1,4 +1,4 @@
-# TMA-Springboot-project 🔰
+# Task Manager Web Application 📑
 
 The objective of this project is to build simple Task Manager web application to create and manage our tasks.
 
