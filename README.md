@@ -1,6 +1,6 @@
 # Task Manager Web Application 📑
 
-The objective of this project is to build simple Task Manager web application to create and manage our tasks.
+The objective of this project is to build simple Task Manager web application to create and manage our daily tasks.
 
 📖Three layer spring MVC Architecture is used in this project.
 
